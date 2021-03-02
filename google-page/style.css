@@ -56,6 +56,12 @@
   border-radius: 50px;
   border: 0.5px solid black;
   margin: 20px 0;
+  background-image: url(./images/magnify.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-position-x: 12px;
+  background-size: 20px;
+  padding-left: 45px;
 }
 
 #magnify {
