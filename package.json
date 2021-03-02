@@ -1,0 +1,19 @@
+{
+  "name": "od_git",
+  "version": "1.0.0",
+  "description": "simple learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rburd84/O_D_git.git"
+  },
+  "author": "rburd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rburd84/O_D_git/issues"
+  },
+  "homepage": "https://github.com/rburd84/O_D_git#readme"
+}
