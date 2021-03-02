@@ -13,10 +13,12 @@
   height: 100vh;
 }
 
-.main_nav {
+.main_nav,
+.footer_nav {
   display: flex;
   align-items: center;
   list-style: none;
+  font-size: 14px;
 }
 
 .main-link {
@@ -56,6 +58,14 @@
   margin: 20px 0;
 }
 
+#magnify {
+  width: 20px;
+  color: grey;
+  position: absolute;
+  top: 125px;
+  left: 90px;
+}
+
 .btn {
   background-color: #f8f9fa;
   border: 1px solid #f8f9fa;
@@ -70,11 +80,11 @@
   text-align: center;
   cursor: pointer;
 }
-
+/* 
 .footer_nav {
   display: flex;
   list-style: none;
-}
+} */
 
 .footer-link {
 }
