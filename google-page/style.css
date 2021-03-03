@@ -54,7 +54,7 @@
   width: 550px;
   padding: 1.1em;
   border-radius: 50px;
-  border: 0.5px solid black;
+  border: 0.5px solid #dfe1e5;
   margin: 20px 0;
   background-image: url(./images/magnify.png);
   background-repeat: no-repeat;
@@ -62,6 +62,12 @@
   background-position-x: 12px;
   background-size: 20px;
   padding-left: 45px;
+}
+
+#search_bar:hover {
+  background-color: #fff;
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+  border-color: rgba(223, 225, 229, 0);
 }
 
 #magnify {
