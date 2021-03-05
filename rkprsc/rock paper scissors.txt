@@ -1,0 +1,7 @@
+rock paper scissors
+
+works and decides winner
+
+make it repeat 
+loop and log score keeping track of whos winning
+first player to 5 games wins
